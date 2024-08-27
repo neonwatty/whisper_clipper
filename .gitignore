@@ -1,3 +1,5 @@
+*.mp3
+*.mp4
 *.db
 .DS_Store
 ._.DS_Store
